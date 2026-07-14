@@ -1,2 +1,14 @@
-# web-development-journey
-Documenting my journey in web development through practical projects, coding challenges, and continuous learning. Building a strong foundation for a Front-End Developer caree
+
+A repository documenting my web development learning through practical exercises and projects.
+
+## Topics
+
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+
+## Purpose
+
+Build practical skills, create a professional portfolio, and prepare for front-end internship opportunities.
