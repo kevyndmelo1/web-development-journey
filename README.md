@@ -7,7 +7,6 @@ A repository documenting my web development learning through practical exercises
 - HTML
 - CSS
 - JavaScript
-- Responsive Design
 
 ## Purpose
 
